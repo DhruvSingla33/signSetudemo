@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Tailwind CSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Material UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/CodeMirror-051C2C?style=for-the-badge&logo=codemirror&logoColor=white" alt="CodeMirror" />
+ 
 </p>
 
 ## 🛠️ Backend
@@ -52,9 +52,8 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/bcrypt.js-F4B400?style=for-the-badge&logo=lock&logoColor=black" alt="bcrypt.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+>
 </p>
 
 ---
@@ -165,8 +164,8 @@ Make sure you have the following installed on your machine:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/DevMinds.git
-cd DevMinds
+git clone https://github.com/DhruvSingla33/signSetudemo.git
+
 ```
 #### 2. Install Dependencies
 
@@ -179,20 +178,7 @@ npm install
 cd server
 npm install 
 ```
-### 🔐 Setup Environment Variables
 
-#### 📂 `client/.env`
-
-```env
-VITE_API_URL=http://localhost:5000
-```
-#### 📂 `server/.env`
-
-```env
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/devminds
-JWT_SECRET=your_jwt_secret
-```
 
 
 ### 🚀 Running the App
@@ -218,7 +204,7 @@ npm run dev
 Visit your app at:
 
 - 🔗 Frontend: [http://localhost:5173](http://localhost:5173)
-- 🔗 Backend: [http://localhost:5000](http://localhost:5000)
+- 🔗 Backend: [http://localhost:8000](http://localhost:5000)
 
 ---
 

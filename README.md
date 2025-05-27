@@ -1,32 +1,36 @@
-<p align="center">
-  <img src="Images/logo.png" alt="DevMinds Logo" width="150"/>
-</p>
 
-<h1 align="center">🚀 DevMinds</h1>
+<h1 align="center">🚀 SignSetu Demo</h1>
 
-<p align="center">
-  <strong>A powerful platform to solve problems, visualize algorithms, and grow as a developer.</strong><br/>
-  Empowering students and mentors through coding, collaboration, and innovation.
-</p>
+
 
 ---
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2>🌟 Key Features</h2>
-      <ul>
-        <li>🧠 <strong>Algorithm Visualizer</strong><br/>Step-by-step visual explanations of popular algorithms.</li><br/>
-        <li>🐍 <strong>Python Online Judge</strong><br/>Solve coding problems with real-time evaluation.</li><br/>
-        <li>💻 <strong>Live Code Compiler</strong><br/>Run HTML, CSS, and JS instantly in the browser.</li><br/>
-        <li>🌐 <strong>Developer Community</strong><br/>Post, comment, and discuss with fellow students.</li><br/>
-        <li>🔐 <strong>JWT Role-based Auth</strong><br/>Secure login system for students and mentors.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <img src="Images/appHome.png" alt="DevMinds App Homepage" width="100%" />
-    </td>
-  </tr>
-</table>
+
+      <h2>🌟 Application Features</h2>
+<ul>
+  <li>🔍 <strong>Smart Search (Fuzzy Logic)</strong><br/>
+    - Intelligently search words even with typos or partial inputs<br/>
+    - Enhanced user experience with real-time suggestions
+  </li><br/>
+
+  <li>🏡 <strong>Interactive Home Page</strong><br/>
+    - Search bar with typo-tolerant (fuzzy) search<br/>
+    - Displays Word, Definition, Image (via URL), and Video (via URL)
+  </li><br/>
+
+  <li>📝 <strong>Word Submission Form</strong><br/>
+    - Input fields for new word, its definition, image link, and video link<br/>
+    - Automatically saved to MongoDB database
+  </li><br/>
+
+  <li>⚙️ <strong>Advanced Options (Bonus)</strong><br/>
+    - Ability to edit or remove added words<br/>
+    - Responsive layout for seamless mobile experience<br/>
+    - Displays a loading spinner during data fetching
+  </li>
+</ul>
+
+   
+
 
 
 ---

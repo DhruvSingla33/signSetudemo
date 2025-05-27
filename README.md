@@ -65,13 +65,14 @@
 ## 📸 Preview
 
 ![Home Page](./Images/upload.png)
+![Home Page](./Images/update.png)
+![Home Page](./Images/detailword.png)
+![Home Page](./Images/search01.png)
 
+![Home Page](./Images/search02.png)
+![Home Page](./Images/search03.png)
+![Home Page](./Images/search04.png)
 
-![Add Word](./screenshots/add-word.png)
-
-
-
-![Edit Word](./screenshots/edit-word.png)
 
 ---
 

@@ -69,7 +69,7 @@
 ![Home Page](./Images/detailword.png)
 ![Home Page](./Images/search01.png)
 
-![Home Page](./Images/search02.png)
+![Home Page](./Images/seach02.png)
 ![Home Page](./Images/search03.png)
 ![Home Page](./Images/search04.png)
 

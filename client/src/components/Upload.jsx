@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
-import "./Upload.css";
+import "./upload.css";
 
 const Upload = ({ setOpen }) => {
   const [img, setImg] = useState(undefined);

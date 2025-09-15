@@ -47,6 +47,7 @@ app.get('/api/sign/:id', async (req, res) => {
     res.status(200).json(Signs);
   } catch (err) {
    console.error('Error fetching videos:', err);
+    
     res.status(500).json({ message: 'Error fetching videos', err });
   }
 });

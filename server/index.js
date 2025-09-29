@@ -124,18 +124,6 @@ app.post('/api/sign', upload.fields([{ name: 'image' }, { name: 'video' }]), asy
 });
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 app.get("/", (req, res) => {
     res.json("This is the home page. for application");
 });
